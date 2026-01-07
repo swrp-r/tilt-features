@@ -42,10 +42,6 @@ export function Header({ totalFeatures, filteredCount, isLoading }: HeaderProps)
             </div>
           </div>
 
-          {/* Right side - placeholder for future actions */}
-          <div className="text-xs text-gray-400">
-            Feature Store
-          </div>
         </div>
       </div>
     </header>
