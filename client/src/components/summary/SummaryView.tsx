@@ -307,7 +307,11 @@ export function SummaryView({ features }: SummaryViewProps) {
             <div className="text-amber-600 text-center mb-0.5">Products</div>
             <div className="flex gap-px">
               {allProducts.map(prod => (
-                <div key={prod} className="w-16 text-center truncate text-amber-500" title={prod}>{prod.split('-')[0]}</div>
+                <div key={prod} className="w-24 text-center text-amber-500 leading-tight" title={prod}>
+                  {prod.split('-').map((part, i) => (
+                    <div key={i}>{part}</div>
+                  ))}
+                </div>
               ))}
             </div>
           </div>
@@ -445,7 +449,7 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
         <div className={cn('flex gap-px rounded px-1', depth === 0 ? 'bg-amber-100' : depth === 1 ? 'bg-amber-50' : '')}>
           {allProducts.map(prod => (
             <div key={prod} className={cn(
-              'w-16 text-center font-mono',
+              'w-24 text-center font-mono',
               depth === 0 ? 'text-sm font-semibold' : depth === 1 ? 'text-xs font-medium' : 'text-xs',
               node.byProduct[prod] ? (depth === 0 ? 'text-amber-700' : 'text-amber-600') : 'text-gray-300'
             )}>
