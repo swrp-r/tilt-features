@@ -364,7 +364,7 @@ function BreakdownColumn({ title, items, total, color }: { title: string; items:
 }
 
 function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeNode; depth: number; total: number; allGeos: string[]; allProducts: string[] }) {
-  const [expanded, setExpanded] = useState(depth === 0);
+  const [expanded, setExpanded] = useState(depth <= 1); // Expand Category and Type by default
   const hasChildren = node.children && node.children.length > 0;
   const barWidth = Math.max(2, (node.count / total) * 100);
 

@@ -33,7 +33,7 @@ export default function App() {
   // Use all features for sidebar options (so they don't disappear when filtering)
   const taxonomy = useTaxonomy(features);
 
-  const [activeTab, setActiveTab] = useState<Tab>('explorer');
+  const [activeTab, setActiveTab] = useState<Tab>('summary');
   const [selectedFeature, setSelectedFeature] = useState<Feature | null>(null);
   const [proposalFeature, setProposalFeature] = useState<Feature | null>(null);
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
@@ -73,9 +73,9 @@ export default function App() {
       {/* Tab Navigation */}
       <div className="border-b border-gray-200 bg-white">
         <div className="px-4 flex items-center gap-1">
-          <TabButton active={activeTab === 'explorer'} onClick={() => setActiveTab('explorer')} icon={LayoutGrid} label="Explorer" />
-          <TabButton active={activeTab === 'gaps'} onClick={() => setActiveTab('gaps')} icon={BarChart3} label="Gap Analysis" />
           <TabButton active={activeTab === 'summary'} onClick={() => setActiveTab('summary')} icon={List} label="Summary" />
+          <TabButton active={activeTab === 'gaps'} onClick={() => setActiveTab('gaps')} icon={BarChart3} label="Gap Analysis" />
+          <TabButton active={activeTab === 'explorer'} onClick={() => setActiveTab('explorer')} icon={LayoutGrid} label="Explorer" />
           <TabButton active={activeTab === 'definitions'} onClick={() => setActiveTab('definitions')} icon={BookOpen} label="Definitions" />
         </div>
       </div>
@@ -144,7 +144,7 @@ export default function App() {
             onToggleCollapse={() => setSidebarCollapsed(!sidebarCollapsed)}
           />
           <main className="flex-1 overflow-auto">
-            <SummaryView features={filteredFeatures} />
+            <SummaryView features={features || []} />
           </main>
         </div>
       )}
