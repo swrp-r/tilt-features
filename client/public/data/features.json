@@ -51,7 +51,7 @@
     "geo": "India",
     "product_business": "Term loans",
     "feature_name": "balancecheckstatus_Balance Verified",
-    "description": "Balance sms (of user\u2019s pdf/netbanking chosen bank) matches with balance of bank statement",
+    "description": "Balance sms (of user’s pdf/netbanking chosen bank) matches with balance of bank statement",
     "primary_category": "Device Data",
     "feature_type": "SMS",
     "feature_subtype": "SMS Analysis",
@@ -186,7 +186,7 @@
     "geo": "India",
     "product_business": "Term loans",
     "feature_name": "deviation_from_50%_tier_salary",
-    "description": "Deviation of users' salary from 50% of users city\u2019s tier (If user is of Tier I city), 50 percentile is calculated by getting salaries of all users\u2019 from all Tier I cities previous month",
+    "description": "Deviation of users' salary from 50% of users city’s tier (If user is of Tier I city), 50 percentile is calculated by getting salaries of all users’ from all Tier I cities previous month",
     "primary_category": "User-Reported Data",
     "feature_type": "Questionnaire",
     "feature_subtype": "Employment & Income",
@@ -9987,7 +9987,7 @@
     "feature_subtype": "App Usage Metrics",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 667,
@@ -10002,7 +10002,7 @@
     "feature_subtype": "App Usage Metrics",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 668,
@@ -10017,7 +10017,7 @@
     "feature_subtype": "App Usage Metrics",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 669,
@@ -10422,7 +10422,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 696,
@@ -10437,7 +10437,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 697,
@@ -10452,7 +10452,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 698,
@@ -10467,7 +10467,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 699,
@@ -10797,7 +10797,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 721,
@@ -10872,7 +10872,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 726,
@@ -10887,7 +10887,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 727,
@@ -10902,7 +10902,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 728,
@@ -10917,7 +10917,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 729,
@@ -10932,7 +10932,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 730,
@@ -11142,7 +11142,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Gaming Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 744,
@@ -11232,7 +11232,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Gaming Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 750,
@@ -11472,7 +11472,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Business & Productivity Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 766,
@@ -11652,7 +11652,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Shopping Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 778,
@@ -11667,7 +11667,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Shopping Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 779,
@@ -11682,7 +11682,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Social & Messaging Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 780,
@@ -11802,7 +11802,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Social & Messaging Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 788,
@@ -11817,7 +11817,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Travel & Navigation Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 789,
@@ -13212,7 +13212,7 @@
     "feature_subtype": "Device Flags",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 882,
@@ -13257,7 +13257,7 @@
     "feature_subtype": "Device Flags",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 885,
@@ -13362,7 +13362,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 892,
@@ -13422,7 +13422,7 @@
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 896,
@@ -13467,7 +13467,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 899,
@@ -13632,7 +13632,7 @@
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 910,
@@ -13737,7 +13737,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 917,
@@ -13767,7 +13767,7 @@
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 919,
@@ -13782,7 +13782,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 920,
@@ -13872,7 +13872,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 926,
@@ -14202,7 +14202,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 948,
@@ -14412,7 +14412,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 962,
@@ -14457,7 +14457,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 965,
@@ -14532,7 +14532,7 @@
     "feature_subtype": "Personal Information",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 970,
@@ -14547,7 +14547,7 @@
     "feature_subtype": "Personal Information",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 971,
@@ -14607,7 +14607,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 975,
@@ -14652,7 +14652,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 978,
@@ -14682,7 +14682,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 980,
@@ -14787,7 +14787,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 987,
@@ -14802,7 +14802,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 988,
@@ -14832,7 +14832,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 990,
@@ -14892,7 +14892,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 994,
@@ -14997,7 +14997,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1001,
@@ -15042,7 +15042,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1004,
@@ -15147,7 +15147,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1011,
@@ -15207,7 +15207,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1015,
@@ -15222,7 +15222,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1016,
@@ -15267,7 +15267,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1019,
@@ -15327,7 +15327,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1023,
@@ -15669,7 +15669,7 @@
     "description": "Number of days from app installation to application for Viber",
     "primary_category": "Device Data",
     "feature_type": "Device Hardware and Network",
-    "feature_subtype": "App Install Timing",
+    "feature_subtype": "App Install Related",
     "feature_l3": "Social & Messaging Apps",
     "top_20_50": null,
     "shap_rank": 28
@@ -16707,7 +16707,7 @@
     "feature_subtype": "App Usage Metrics",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1115,
@@ -16722,7 +16722,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1116,
@@ -16737,7 +16737,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1117,
@@ -16752,7 +16752,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1118,
@@ -16767,7 +16767,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1119,
@@ -16782,7 +16782,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1120,
@@ -16797,7 +16797,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1121,
@@ -16812,7 +16812,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Lending & Finance",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1122,
@@ -16827,7 +16827,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Gaming Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1123,
@@ -16842,7 +16842,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Business & Productivity Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1124,
@@ -16857,7 +16857,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Business & Productivity Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1125,
@@ -16872,7 +16872,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Shopping Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1126,
@@ -16887,7 +16887,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Social & Messaging Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1127,
@@ -16902,7 +16902,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Social & Messaging Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1128,
@@ -16917,7 +16917,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Social & Messaging Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1129,
@@ -16932,7 +16932,7 @@
     "feature_subtype": "App Presence",
     "feature_l3": "Travel & Navigation Apps",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1130,
@@ -16947,7 +16947,7 @@
     "feature_subtype": "Application Timing",
     "feature_l3": "All Purpose - Approved",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1131,
@@ -16962,7 +16962,7 @@
     "feature_subtype": "Application Rates",
     "feature_l3": "All Purpose - Approved",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1132,
@@ -16977,7 +16977,7 @@
     "feature_subtype": "Application Timing",
     "feature_l3": "All Purpose - Approved",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1133,
@@ -16992,7 +16992,7 @@
     "feature_subtype": "Application Rates",
     "feature_l3": "All Purpose - Approved",
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1134,
@@ -17007,7 +17007,7 @@
     "feature_subtype": "Device Flags",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1135,
@@ -17022,7 +17022,7 @@
     "feature_subtype": "Device Flags",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1136,
@@ -17037,7 +17037,7 @@
     "feature_subtype": "Device Flags",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1137,
@@ -17052,7 +17052,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1138,
@@ -17067,7 +17067,7 @@
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1139,
@@ -17082,7 +17082,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1140,
@@ -17097,7 +17097,7 @@
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1141,
@@ -17112,7 +17112,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1142,
@@ -17127,7 +17127,7 @@
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1143,
@@ -17142,7 +17142,7 @@
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1144,
@@ -17157,7 +17157,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1145,
@@ -17172,7 +17172,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1146,
@@ -17187,7 +17187,7 @@
     "feature_subtype": null,
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1147,
@@ -17202,7 +17202,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1148,
@@ -17217,7 +17217,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1149,
@@ -17232,7 +17232,7 @@
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1150,
@@ -17247,7 +17247,7 @@
     "feature_subtype": "Personal Information",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1151,
@@ -17262,7 +17262,7 @@
     "feature_subtype": "Personal Information",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1152,
@@ -17277,7 +17277,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1153,
@@ -17292,7 +17292,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1154,
@@ -17307,7 +17307,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1155,
@@ -17322,7 +17322,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1156,
@@ -17337,7 +17337,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1157,
@@ -17352,7 +17352,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1158,
@@ -17367,7 +17367,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1159,
@@ -17382,7 +17382,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1160,
@@ -17397,7 +17397,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1161,
@@ -17412,7 +17412,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1162,
@@ -17427,7 +17427,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1163,
@@ -17442,7 +17442,7 @@
     "feature_subtype": "Withdrawal",
     "feature_l3": null,
     "top_20_50": "top50",
-    "shap_rank": "top50"
+    "shap_rank": null
   },
   {
     "id": 1164,
@@ -19450,7 +19450,7 @@
     "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
-    "feature_l3": "Institution Type",
+    "feature_l3": null,
     "top_20_50": null,
     "shap_rank": null
   },
@@ -19852,8 +19852,8 @@
     "product_business": "Core-Thrive",
     "feature_name": "TotalHistoryInDays",
     "description": "Days since the first transaction detected on a user's primary checking account",
-    "primary_category": "Cash Flow",
-    "feature_type": "Credit/Loan History",
+    "primary_category": "Platform Data",
+    "feature_type": "User Engagement",
     "feature_subtype": "Account Info",
     "feature_l3": "Account Age/ Length",
     "top_20_50": null,
@@ -21577,7 +21577,7 @@
     "product_business": "Core-CA",
     "feature_name": "NormDefaultRate",
     "description": null,
-    "primary_category": "Loan Activity",
+    "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
@@ -23167,8 +23167,8 @@
     "product_business": "Core-CA",
     "feature_name": "AccountAge",
     "description": "Age of user account in days",
-    "primary_category": "Cash Flow",
-    "feature_type": "Credit/Loan History",
+    "primary_category": "Platform Data",
+    "feature_type": "User Engagement",
     "feature_subtype": "Account Info",
     "feature_l3": "Account Age/ Length",
     "top_20_50": null,
@@ -25090,7 +25090,7 @@
     "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
-    "feature_l3": "Institution Type",
+    "feature_l3": null,
     "top_20_50": "top20",
     "shap_rank": 9
   },
@@ -26827,8 +26827,8 @@
     "product_business": "Core-CA",
     "feature_name": "TotalHistoryInDays",
     "description": "Total account history length",
-    "primary_category": "Cash Flow",
-    "feature_type": "Credit/Loan History",
+    "primary_category": "Platform Data",
+    "feature_type": "User Engagement",
     "feature_subtype": "Account Info",
     "feature_l3": "Account Age/ Length",
     "top_20_50": null,
@@ -26841,13 +26841,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "paycheck_fd_day_of_week_comparison_simple_seq",
-    "description": "Calculates the similarity between two sequences representing the % of paychecks that fell on day of week 0\u20136 and % of forecasted dates that fell on day of week 0\u20136",
+    "description": "Calculates the similarity between two sequences representing the % of paychecks that fell on day of week 0–6 and % of forecasted dates that fell on day of week 0–6",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1791,
@@ -26856,13 +26856,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "ErrorRatio",
-    "description": "ErrorRatio = (ErrorRate\u00b2) / (NumMatches\u00b2)",
+    "description": "ErrorRatio = (ErrorRate²) / (NumMatches²)",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1792,
@@ -26876,8 +26876,8 @@
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1793,
@@ -26886,13 +26886,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "candidate_employer_1_num_trans",
-    "description": "Number of paychecks associated with the most common employer in the candidate\u2019s matched paychecks",
+    "description": "Number of paychecks associated with the most common employer in the candidate’s matched paychecks",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1794,
@@ -26901,13 +26901,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "dtw_between_dateslist_and_trans_dates_day_of_week",
-    "description": "Calculates Dynamic Time Warping (DTW) similarity score between the candidate\u2019s forecasted dates' day of week",
+    "description": "Calculates Dynamic Time Warping (DTW) similarity score between the candidate’s forecasted dates' day of week",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1795,
@@ -26921,8 +26921,8 @@
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1796,
@@ -26936,8 +26936,8 @@
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1797,
@@ -26946,13 +26946,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "pct_of_preds_candidate_day_of_week_matches_successful_fd_last_3_mo",
-    "description": "Of all correct historical BF predictions made for the user in the last 3 months, what % of their forecasted dates\u2019 day of week match the candidate\u2019s first forecasted date's day of week",
+    "description": "Of all correct historical BF predictions made for the user in the last 3 months, what % of their forecasted dates’ day of week match the candidate’s first forecasted date's day of week",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1798,
@@ -26961,13 +26961,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "PaycheckDollarAmount",
-    "description": "Mean paycheck amount of candidate\u2019s matched paychecks",
+    "description": "Mean paycheck amount of candidate’s matched paychecks",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1799,
@@ -26976,13 +26976,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "num_days_til_fd",
-    "description": "Number of days until the candidate\u2019s first forecasted date (FD1)",
+    "description": "Number of days until the candidate’s first forecasted date (FD1)",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1800,
@@ -26991,13 +26991,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "mean_interval",
-    "description": "Mean number of days between candidate\u2019s matched paychecks",
+    "description": "Mean number of days between candidate’s matched paychecks",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1801,
@@ -27006,13 +27006,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "paycheck_fd_day_of_week_comparison_hamming_positive_alignment",
-    "description": "Uses Hamming positive alignment to calculate similarity between sequences representing % of paychecks and % of forecast dates falling on day of week 0\u20136",
+    "description": "Uses Hamming positive alignment to calculate similarity between sequences representing % of paychecks and % of forecast dates falling on day of week 0–6",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1802,
@@ -27021,13 +27021,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "paycheck_fd_day_of_month_comparison_simple_seq",
-    "description": "Calculates similarity between sequences representing % of paychecks falling on day of month 0\u201330 and % of forecasted dates falling on day of month 0\u201330",
+    "description": "Calculates similarity between sequences representing % of paychecks falling on day of month 0–30 and % of forecasted dates falling on day of month 0–30",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1803,
@@ -27036,13 +27036,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "std_candidate_trans_amt",
-    "description": "Standard deviation of the candidate\u2019s matched paycheck amounts",
+    "description": "Standard deviation of the candidate’s matched paycheck amounts",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1804,
@@ -27051,13 +27051,13 @@
     "geo": "US",
     "product_business": "Horizontal",
     "feature_name": "paycheck_fd_day_of_month_comparison_hamming_positive_alignment",
-    "description": "Uses Hamming positive alignment to calculate similarity between sequences representing % of paychecks falling on day of month 0\u201330 and % of forecasted dates falling on day of month 0\u201330",
+    "description": "Uses Hamming positive alignment to calculate similarity between sequences representing % of paychecks falling on day of month 0–30 and % of forecasted dates falling on day of month 0–30",
     "primary_category": "Platform Data",
     "feature_type": "Derived Features",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 15",
-    "shap_rank": "top 15"
+    "top_20_50": "top15",
+    "shap_rank": null
   },
   {
     "id": 1805,
@@ -27926,7 +27926,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 5
   },
   {
@@ -27956,7 +27956,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 15
   },
   {
@@ -28001,7 +28001,7 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 10
   },
   {
@@ -28106,7 +28106,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 12
   },
   {
@@ -28121,7 +28121,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 14
   },
   {
@@ -28226,7 +28226,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": "Repayment Metrics",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 9
   },
   {
@@ -28331,7 +28331,7 @@
     "feature_type": "Expenses",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 10
   },
   {
@@ -28436,7 +28436,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 1
   },
   {
@@ -28451,7 +28451,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 2
   },
   {
@@ -28462,11 +28462,11 @@
     "product_business": "Core-Thrive",
     "feature_name": "normdefaultrate",
     "description": "Normalized historical institution default rate",
-    "primary_category": "Loan Activity",
+    "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 8
   },
   {
@@ -28481,7 +28481,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Competitor / Empower Advances",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 14
   },
   {
@@ -28541,7 +28541,7 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 4
   },
   {
@@ -28556,7 +28556,7 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Retail & Shopping",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 13
   },
   {
@@ -28616,7 +28616,7 @@
     "feature_type": "Income",
     "feature_subtype": "Loan Proceeds",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 5
   },
   {
@@ -28721,7 +28721,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Expense to Income",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 11
   },
   {
@@ -28751,7 +28751,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 13
   },
   {
@@ -28766,7 +28766,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 7
   },
   {
@@ -28810,7 +28810,7 @@
     "primary_category": "Platform Data",
     "feature_type": "User Engagement",
     "feature_subtype": "Account Info",
-    "feature_l3": null,
+    "feature_l3": "Account Age/ Length",
     "top_20_50": null,
     "shap_rank": null
   },
@@ -28826,7 +28826,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 6
   },
   {
@@ -28841,7 +28841,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 3
   },
   {
@@ -28856,7 +28856,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 12
   },
   {
@@ -28871,7 +28871,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 14
   },
   {
@@ -28886,7 +28886,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 11
   },
   {
@@ -28901,7 +28901,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 9
   },
   {
@@ -28916,7 +28916,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 1
   },
   {
@@ -28931,7 +28931,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 2
   },
   {
@@ -28942,11 +28942,11 @@
     "product_business": "Core-Thrive",
     "feature_name": "normdefaultrate",
     "description": "Normalized historical institution default rate",
-    "primary_category": "Loan Activity",
+    "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 8
   },
   {
@@ -28961,7 +28961,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 5
   },
   {
@@ -28976,7 +28976,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 15
   },
   {
@@ -28991,7 +28991,7 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 4
   },
   {
@@ -29006,7 +29006,7 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Retail & Shopping",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 13
   },
   {
@@ -29021,7 +29021,7 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 10
   },
   {
@@ -29036,7 +29036,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 7
   },
   {
@@ -29051,7 +29051,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 8
   },
   {
@@ -29066,7 +29066,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 6
   },
   {
@@ -29081,7 +29081,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": "Repayment Metrics",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 9
   },
   {
@@ -29096,7 +29096,7 @@
     "feature_type": "Expenses",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 10
   },
   {
@@ -29111,7 +29111,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 1
   },
   {
@@ -29126,7 +29126,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 3
   },
   {
@@ -29137,11 +29137,11 @@
     "product_business": "Core-Thrive",
     "feature_name": "normdefaultrate",
     "description": "Normalized historical institution default rate",
-    "primary_category": "Loan Activity",
+    "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 4
   },
   {
@@ -29156,7 +29156,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Competitor / Empower Advances",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 14
   },
   {
@@ -29171,7 +29171,7 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 2
   },
   {
@@ -29186,7 +29186,7 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Retail & Shopping",
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 7
   },
   {
@@ -29201,7 +29201,7 @@
     "feature_type": "Income",
     "feature_subtype": "Loan Proceeds",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 5
   },
   {
@@ -29216,7 +29216,7 @@
     "feature_type": "Ratios",
     "feature_subtype": "Expense to Income",
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 11
   },
   {
@@ -29231,7 +29231,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 13
   },
   {
@@ -29246,7 +29246,7 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 15
   },
   {
@@ -29261,7 +29261,7 @@
     "feature_type": "Expenses",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 15",
+    "top_20_50": "top15",
     "shap_rank": 12
   },
   {
@@ -29272,12 +29272,12 @@
     "product_business": "Core-Thrive",
     "feature_name": "AccountAge",
     "description": "Number of days since a user began their Empower subscription",
-    "primary_category": "Cash Flow",
-    "feature_type": "Credit/Loan History",
+    "primary_category": "Platform Data",
+    "feature_type": "User Engagement",
     "feature_subtype": "Account Info",
     "feature_l3": "Account Age/ Length",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1953,
@@ -29291,8 +29291,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1954,
@@ -29306,8 +29306,8 @@
     "feature_type": "Income",
     "feature_subtype": "Income and Credits",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1955,
@@ -29321,8 +29321,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1956,
@@ -29336,8 +29336,8 @@
     "feature_type": "Income",
     "feature_subtype": "Income and Credits",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1957,
@@ -29351,8 +29351,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1958,
@@ -29366,8 +29366,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1959,
@@ -29381,8 +29381,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1960,
@@ -29396,8 +29396,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1961,
@@ -29411,8 +29411,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": "Retry",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1962,
@@ -29426,8 +29426,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1963,
@@ -29441,8 +29441,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1964,
@@ -29456,8 +29456,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Transaction Volume",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1965,
@@ -29471,8 +29471,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1966,
@@ -29486,8 +29486,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Overdraft / Negative Balance",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1967,
@@ -29501,8 +29501,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1968,
@@ -29516,8 +29516,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1969,
@@ -29531,8 +29531,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1970,
@@ -29546,8 +29546,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": "Retry",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1971,
@@ -29561,8 +29561,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Balance Cushion",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1972,
@@ -29576,8 +29576,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Competitor / Empower Advances",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1973,
@@ -29591,8 +29591,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1974,
@@ -29606,8 +29606,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1975,
@@ -29621,8 +29621,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Collections, Recoveries, Repayments",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1976,
@@ -29636,8 +29636,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1977,
@@ -29651,8 +29651,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1978,
@@ -29666,8 +29666,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1979,
@@ -29681,8 +29681,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1980,
@@ -29696,8 +29696,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1981,
@@ -29710,9 +29710,9 @@
     "primary_category": "Cash Flow",
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
-    "feature_l3": "Institution Type",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "feature_l3": null,
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1982,
@@ -29726,8 +29726,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Competitor / Empower Advances",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1983,
@@ -29741,8 +29741,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1984,
@@ -29756,8 +29756,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1985,
@@ -29771,8 +29771,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Bank Fees/ Late Fees",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1986,
@@ -29786,8 +29786,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1987,
@@ -29801,8 +29801,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Retail & Shopping",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1988,
@@ -29816,8 +29816,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Dining & Food",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1989,
@@ -29831,8 +29831,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Insurance",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1990,
@@ -29846,8 +29846,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1991,
@@ -29861,8 +29861,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Debt Obligations",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1992,
@@ -29876,8 +29876,8 @@
     "feature_type": "Income",
     "feature_subtype": "Income and Credits",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1993,
@@ -29891,8 +29891,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1994,
@@ -29906,8 +29906,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1995,
@@ -29921,8 +29921,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1996,
@@ -29936,8 +29936,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1997,
@@ -29951,8 +29951,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transfers & Withdrawals",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1998,
@@ -29966,8 +29966,8 @@
     "feature_type": "Ratios",
     "feature_subtype": "Expense to Income",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 1999,
@@ -29981,8 +29981,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Spend Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2000,
@@ -29996,8 +29996,8 @@
     "feature_type": "Income",
     "feature_subtype": "Income and Credits",
     "feature_l3": "Income Analysis",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2001,
@@ -30011,8 +30011,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2002,
@@ -30026,8 +30026,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Assets",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2003,
@@ -30041,8 +30041,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Assets",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2004,
@@ -30052,12 +30052,12 @@
     "product_business": "Core-Thrive",
     "feature_name": "TotalHistoryInDays",
     "description": "Days since the first transaction detected on a user's primary checking account",
-    "primary_category": "Cash Flow",
-    "feature_type": "Credit/Loan History",
+    "primary_category": "Platform Data",
+    "feature_type": "User Engagement",
     "feature_subtype": "Account Info",
     "feature_l3": "Account Age/ Length",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2005,
@@ -30071,8 +30071,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2006,
@@ -30086,8 +30086,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2007,
@@ -30101,8 +30101,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2008,
@@ -30116,8 +30116,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2009,
@@ -30131,8 +30131,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2010,
@@ -30146,8 +30146,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2011,
@@ -30161,8 +30161,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2012,
@@ -30176,8 +30176,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": "Credit History Length",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2013,
@@ -30191,8 +30191,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Delinquency Indicators",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2014,
@@ -30206,8 +30206,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2015,
@@ -30221,8 +30221,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2016,
@@ -30236,8 +30236,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2017,
@@ -30251,8 +30251,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2018,
@@ -30266,8 +30266,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2019,
@@ -30281,8 +30281,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2020,
@@ -30296,8 +30296,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2021,
@@ -30311,8 +30311,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2022,
@@ -30326,8 +30326,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2023,
@@ -30341,8 +30341,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2024,
@@ -30356,8 +30356,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2025,
@@ -30371,8 +30371,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2026,
@@ -30386,8 +30386,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2027,
@@ -30401,8 +30401,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2028,
@@ -30416,8 +30416,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2029,
@@ -30431,8 +30431,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Revolving Payment Behavior",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2030,
@@ -30446,8 +30446,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Revolving Payment Behavior",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2031,
@@ -30461,8 +30461,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Revolving Payment Behavior",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2032,
@@ -30476,8 +30476,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2033,
@@ -30491,8 +30491,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2034,
@@ -30506,8 +30506,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Account Info",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2035,
@@ -30521,8 +30521,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2036,
@@ -30536,8 +30536,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2037,
@@ -30551,8 +30551,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2038,
@@ -30566,8 +30566,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Revolving Balance Activity",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2039,
@@ -30581,8 +30581,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2040,
@@ -30596,8 +30596,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2041,
@@ -30611,8 +30611,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Credit Card Metrics",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2042,
@@ -30626,8 +30626,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2043,
@@ -30641,8 +30641,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Payment Behavior",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2044,
@@ -30656,8 +30656,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Installment Loan Metrics",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2045,
@@ -30671,8 +30671,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Installment Loan Metrics",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2046,
@@ -30686,8 +30686,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": "Installment Loan Metrics",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2047,
@@ -30701,8 +30701,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2048,
@@ -30716,8 +30716,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Inquiries",
     "feature_l3": "Total Inquiry Counts",
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2049,
@@ -30731,8 +30731,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Timing/ Frequency",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2050,
@@ -30746,8 +30746,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2051,
@@ -30761,8 +30761,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2052,
@@ -30776,8 +30776,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Credit Utilization",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2053,
@@ -30791,8 +30791,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2054,
@@ -30806,8 +30806,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2055,
@@ -30821,8 +30821,8 @@
     "feature_type": "Credit/Loan History",
     "feature_subtype": "Tradeline analysis",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2056,
@@ -30836,8 +30836,8 @@
     "feature_type": "Questionnaire",
     "feature_subtype": "Personal Information",
     "feature_l3": null,
-    "top_20_50": "top 50",
-    "shap_rank": "top 50"
+    "top_20_50": "top50",
+    "shap_rank": null
   },
   {
     "id": 2057,
@@ -30851,8 +30851,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2058,
@@ -30866,8 +30866,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2059,
@@ -30881,8 +30881,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2060,
@@ -30896,8 +30896,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2061,
@@ -30911,8 +30911,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2062,
@@ -30926,8 +30926,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2063,
@@ -30941,8 +30941,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2064,
@@ -30956,8 +30956,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2065,
@@ -30971,8 +30971,8 @@
     "feature_type": "Expenses",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2066,
@@ -30986,8 +30986,8 @@
     "feature_type": "Expenses",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2067,
@@ -31001,8 +31001,8 @@
     "feature_type": "Expenses",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2068,
@@ -31016,8 +31016,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2069,
@@ -31031,8 +31031,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2070,
@@ -31046,8 +31046,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2071,
@@ -31061,8 +31061,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2072,
@@ -31076,8 +31076,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2073,
@@ -31091,8 +31091,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2074,
@@ -31106,8 +31106,8 @@
     "feature_type": "Expenses",
     "feature_subtype": "Transaction Categories",
     "feature_l3": "Loans, Mortgages, Credit Card Payments",
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2075,
@@ -31121,8 +31121,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2076,
@@ -31136,8 +31136,8 @@
     "feature_type": "Income",
     "feature_subtype": "Salary & Payroll",
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2077,
@@ -31151,8 +31151,8 @@
     "feature_type": "Income",
     "feature_subtype": "Transaction History",
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2078,
@@ -31166,8 +31166,8 @@
     "feature_type": "Income",
     "feature_subtype": "Transaction History",
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2079,
@@ -31181,8 +31181,8 @@
     "feature_type": "Income",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2080,
@@ -31196,8 +31196,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2081,
@@ -31211,8 +31211,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2082,
@@ -31226,8 +31226,8 @@
     "feature_type": "Ratios",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2083,
@@ -31241,8 +31241,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2084,
@@ -31256,8 +31256,8 @@
     "feature_type": "Balances",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2085,
@@ -31271,8 +31271,8 @@
     "feature_type": "Balances",
     "feature_subtype": "Assets",
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   },
   {
     "id": 2086,
@@ -31286,7 +31286,7 @@
     "feature_type": "Derived Features",
     "feature_subtype": null,
     "feature_l3": null,
-    "top_20_50": "top 30",
-    "shap_rank": "top 30"
+    "top_20_50": "top30",
+    "shap_rank": null
   }
 ]
