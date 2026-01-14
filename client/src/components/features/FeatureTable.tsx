@@ -123,9 +123,9 @@ export function FeatureTable({
                       {feature.geo}
                     </span>
                   </td>
-                  <td className="px-2 py-1.5 text-gray-600 truncate max-w-24">{feature.product_business || '-'}</td>
-                  <td className="px-2 py-1.5 text-gray-600 truncate max-w-24">{feature.model_name || '-'}</td>
-                  <td className="px-2 py-1.5 text-gray-600 truncate">{feature.user_type || '-'}</td>
+                  <td className="px-2 py-1.5 text-gray-600 truncate max-w-24" title={feature.product_business || undefined}>{feature.product_business || '-'}</td>
+                  <td className="px-2 py-1.5 text-gray-600 truncate max-w-24" title={feature.model_name || undefined}>{feature.model_name || '-'}</td>
+                  <td className="px-2 py-1.5 text-gray-600 truncate" title={feature.user_type || undefined}>{feature.user_type || '-'}</td>
                   <td className="px-2 py-1.5 font-mono text-gray-900 truncate max-w-48" title={feature.feature_name}>
                     {feature.feature_name}
                   </td>
@@ -142,9 +142,9 @@ export function FeatureTable({
                       {feature.primary_category || '-'}
                     </span>
                   </td>
-                  <td className="px-2 py-1.5 text-gray-600 truncate max-w-28">{feature.feature_type || '-'}</td>
-                  <td className="px-2 py-1.5 text-gray-500 truncate max-w-28">{feature.feature_subtype || '-'}</td>
-                  <td className="px-2 py-1.5 text-gray-400 truncate max-w-24">{feature.feature_l3 || '-'}</td>
+                  <td className="px-2 py-1.5 text-gray-600 truncate max-w-28" title={feature.feature_type || undefined}>{feature.feature_type || '-'}</td>
+                  <td className="px-2 py-1.5 text-gray-500 truncate max-w-28" title={feature.feature_subtype || undefined}>{feature.feature_subtype || '-'}</td>
+                  <td className="px-2 py-1.5 text-gray-400 truncate max-w-24" title={feature.feature_l3 || undefined}>{feature.feature_l3 || '-'}</td>
                   <td className="px-2 py-1.5 text-center">
                     {feature.top_20_50 && (
                       <span className="px-1 py-0.5 bg-yellow-100 text-yellow-700 rounded text-xs font-medium">

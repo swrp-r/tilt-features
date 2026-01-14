@@ -8,7 +8,6 @@ export default defineConfig({
   define: {
     __BASE_URL__: JSON.stringify('/tilt-features/'),
     __GSHEET_API_URL__: JSON.stringify(process.env.VITE_GSHEET_API_URL || ''),
-    __APPS_SCRIPT_URL__: JSON.stringify(process.env.VITE_APPS_SCRIPT_URL || ''),
   },
   resolve: {
     alias: {

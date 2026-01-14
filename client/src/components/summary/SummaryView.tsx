@@ -408,10 +408,13 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
           <span className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: node.color }} />
         )}
 
-        <span className={cn(
-          'w-[250px] flex-shrink-0 truncate text-sm',
-          depth === 0 ? 'text-gray-900' : depth === 1 ? 'text-gray-800' : depth === 2 ? 'text-gray-700' : 'text-gray-600'
-        )}>
+        <span
+          className={cn(
+            'w-[250px] flex-shrink-0 truncate text-sm',
+            depth === 0 ? 'text-gray-900' : depth === 1 ? 'text-gray-800' : depth === 2 ? 'text-gray-700' : 'text-gray-600'
+          )}
+          title={node.name}
+        >
           {node.name}
         </span>
 

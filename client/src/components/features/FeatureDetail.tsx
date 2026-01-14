@@ -1,15 +1,14 @@
 import { motion } from 'framer-motion';
-import { X, Copy, Edit3, Check } from 'lucide-react';
+import { X, Copy, Check } from 'lucide-react';
 import { useState } from 'react';
 import type { Feature } from '@/types/feature';
 
 interface FeatureDetailProps {
   feature: Feature;
   onClose: () => void;
-  onProposeChange: () => void;
 }
 
-export function FeatureDetail({ feature, onClose, onProposeChange }: FeatureDetailProps) {
+export function FeatureDetail({ feature, onClose }: FeatureDetailProps) {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
@@ -87,19 +86,6 @@ export function FeatureDetail({ feature, onClose, onProposeChange }: FeatureDeta
               </span>
             </div>
           ))}
-
-          {/* Propose Change Button */}
-          <button
-            onClick={onProposeChange}
-            className="w-full flex items-center justify-center gap-2 px-4 py-3 mt-4 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
-          >
-            <Edit3 className="w-4 h-4" />
-            Propose a Change
-          </button>
-
-          <p className="text-xs text-center text-gray-500">
-            Propose reclassification or add comments for review.
-          </p>
         </div>
       </motion.div>
     </>

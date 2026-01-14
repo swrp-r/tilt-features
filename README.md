@@ -8,7 +8,8 @@ A web application for exploring and managing ML model feature taxonomies. Built 
 - **Multi-dimensional filtering** by Category, Type, Subtype, L3, Geography, and Product
 - **Full-text search** across feature names and descriptions
 - **Taxonomy tree** with hierarchical counts
-- **Propose changes** that are logged to Google Sheets for review
+- **Gap Analysis** to identify missing features across markets and products
+- **Summary Dashboard** with category distribution and taxonomy hierarchy
 
 ## Quick Start
 
@@ -39,7 +40,9 @@ feature-taxonomy-viewer/
 │       │   ├── filters/         # Filter UI components
 │       │   ├── features/        # Feature table & detail
 │       │   ├── taxonomy/        # Sidebar tree
-│       │   └── changes/         # Change proposal form
+│       │   ├── gaps/            # Gap analysis dashboard
+│       │   ├── summary/         # Summary view
+│       │   └── definitions/     # Credit definitions
 │       ├── hooks/               # React hooks
 │       ├── lib/                 # Utilities
 │       └── types/               # TypeScript types
@@ -48,7 +51,7 @@ feature-taxonomy-viewer/
 │       └── features.json        # Feature data (2,086 records)
 ├── .github/workflows/
 │   └── deploy.yml               # GitHub Pages deployment
-└── GOOGLE_APPS_SCRIPT.md        # Backend setup guide
+└── GSHEET_DATA_API.md           # Google Sheets data integration
 ```
 
 ## Data Schema
@@ -64,15 +67,13 @@ Each feature has:
 - `feature_subtype` - Subtype (54 subtypes)
 - `feature_l3` - Granular category (93 L3 values)
 
-## Change Proposal Workflow
+## Data Source
 
-1. Click on any feature row to view details
-2. Click "Propose a Change" button
-3. Select field to change, enter new value, and provide reason
-4. Submit - proposal is logged to Google Sheets
-5. Reviewer checks pending proposals and approves/rejects
+The app supports two data sources:
+- **Static JSON** (default): Features loaded from `public/data/features.json`
+- **Google Sheets** (optional): Live data from a Google Sheet via Apps Script
 
-See `GOOGLE_APPS_SCRIPT.md` for backend setup.
+See `GSHEET_DATA_API.md` for Google Sheets integration setup.
 
 ## Deployment
 

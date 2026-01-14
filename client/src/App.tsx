@@ -8,7 +8,6 @@ import { FilterBar } from '@/components/filters/FilterBar';
 import { FeatureTable } from '@/components/features/FeatureTable';
 import { TaxonomySidebar } from '@/components/taxonomy/TaxonomySidebar';
 import { FeatureDetail } from '@/components/features/FeatureDetail';
-import { ChangeProposalModal } from '@/components/changes/ChangeProposalModal';
 import { GapDashboard } from '@/components/gaps/GapDashboard';
 import { SummaryView } from '@/components/summary/SummaryView';
 import { CreditDefinitions } from '@/components/definitions/CreditDefinitions';
@@ -35,7 +34,6 @@ export default function App() {
 
   const [activeTab, setActiveTab] = useState<Tab>('summary');
   const [selectedFeature, setSelectedFeature] = useState<Feature | null>(null);
-  const [proposalFeature, setProposalFeature] = useState<Feature | null>(null);
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
 
   const handleFilterToExplorer = useCallback(
@@ -160,18 +158,6 @@ export default function App() {
         <FeatureDetail
           feature={selectedFeature}
           onClose={() => setSelectedFeature(null)}
-          onProposeChange={() => {
-            setProposalFeature(selectedFeature);
-            setSelectedFeature(null);
-          }}
-        />
-      )}
-
-      {/* Change Proposal Modal */}
-      {proposalFeature && (
-        <ChangeProposalModal
-          feature={proposalFeature}
-          onClose={() => setProposalFeature(null)}
         />
       )}
     </div>
