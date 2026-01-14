@@ -295,8 +295,8 @@ export function SummaryView({ features }: SummaryViewProps) {
         <div className="flex items-center gap-2 px-3 py-1 border-b border-gray-200 bg-gray-100 text-[10px] font-medium text-gray-500 uppercase">
           <div className="w-3.5 flex-shrink-0"></div>
           <div className="w-2.5 flex-shrink-0"></div>
-          <div className="flex-1">Name</div>
-          <div className="w-28 text-center">Total</div>
+          <div className="min-w-[200px] flex-1">Name</div>
+          <div className="w-28 text-center flex-shrink-0">Total</div>
           <div className="bg-blue-50 rounded px-1 py-0.5">
             <div className="text-blue-600 text-center mb-0.5">Markets</div>
             <div className="flex gap-px">
@@ -407,14 +407,14 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
         )}
 
         <span className={cn(
-          'flex-1 truncate text-sm',
+          'min-w-[200px] flex-1 truncate text-sm',
           depth === 0 ? 'text-gray-900' : depth === 1 ? 'text-gray-800' : depth === 2 ? 'text-gray-700' : 'text-gray-600'
         )}>
           {node.name}
         </span>
 
         {/* Total with mini bar */}
-        <div className="w-28 flex items-center gap-1">
+        <div className="w-28 flex-shrink-0 flex items-center gap-1">
           <div className="flex-1 h-1.5 bg-gray-200 rounded-full overflow-hidden">
             <div
               className="h-full rounded-full"
