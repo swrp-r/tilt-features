@@ -293,6 +293,8 @@ export function SummaryView({ features }: SummaryViewProps) {
         </div>
         {/* Column Headers */}
         <div className="flex items-center gap-2 px-3 py-1 border-b border-gray-200 bg-gray-100 text-[10px] font-medium text-gray-500 uppercase">
+          <div className="w-3.5 flex-shrink-0"></div>
+          <div className="w-2.5 flex-shrink-0"></div>
           <div className="flex-1">Name</div>
           <div className="w-28 text-center">Total</div>
           <div className="bg-blue-50 rounded px-1 py-0.5">
