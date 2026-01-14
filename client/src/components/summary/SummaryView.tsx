@@ -286,35 +286,37 @@ export function SummaryView({ features }: SummaryViewProps) {
       )}
 
       {/* Hierarchical Tree */}
-      <div className="bg-white rounded-lg border border-gray-200">
+      <div className="bg-white rounded-lg border border-gray-200 overflow-hidden">
         <div className="px-3 py-2 border-b border-gray-200 bg-gray-50 flex items-center">
           <span className="text-sm font-medium text-gray-900">Taxonomy Hierarchy</span>
           <span className="text-xs text-gray-500 ml-2">Category → Type → Subtype → L3</span>
         </div>
-        {/* Column Headers */}
-        <div className="flex items-center gap-2 px-3 py-1 border-b border-gray-200 bg-gray-100 text-[10px] font-medium text-gray-500 uppercase">
-          <div className="w-3.5 flex-shrink-0"></div>
-          <div className="w-2.5 flex-shrink-0"></div>
-          <div className="min-w-[200px] flex-1">Name</div>
-          <div className="w-28 text-center flex-shrink-0">Total</div>
-          <div className="bg-blue-50 rounded px-1 py-0.5">
-            <div className="text-blue-600 text-center mb-0.5">Markets</div>
-            <div className="flex gap-px">
-              {allGeos.map(geo => (
-                <div key={geo} className="w-12 text-center text-blue-500" title={geo}>{geo}</div>
-              ))}
+        {/* Column Headers - Scrollable */}
+        <div className="overflow-x-auto border-b border-gray-200">
+          <div className="flex items-center gap-2 px-3 py-1 bg-gray-100 text-[10px] font-medium text-gray-500 uppercase min-w-max">
+            <div className="w-3.5 flex-shrink-0"></div>
+            <div className="w-2.5 flex-shrink-0"></div>
+            <div className="w-[250px] flex-shrink-0">Name</div>
+            <div className="w-28 text-center flex-shrink-0">Total</div>
+            <div className="bg-blue-50 rounded px-1 py-0.5 flex-shrink-0">
+              <div className="text-blue-600 text-center mb-0.5">Markets</div>
+              <div className="flex gap-px">
+                {allGeos.map(geo => (
+                  <div key={geo} className="w-12 text-center text-blue-500" title={geo}>{geo}</div>
+                ))}
+              </div>
             </div>
-          </div>
-          <div className="bg-amber-50 rounded px-1 py-0.5">
-            <div className="text-amber-600 text-center mb-0.5">Products</div>
-            <div className="flex gap-px">
-              {allProducts.map(prod => (
-                <div key={prod} className="w-24 text-center text-amber-500 leading-tight" title={prod}>
-                  {prod.split('-').map((part, i) => (
-                    <div key={i}>{part}</div>
-                  ))}
-                </div>
-              ))}
+            <div className="bg-amber-50 rounded px-1 py-0.5 flex-shrink-0">
+              <div className="text-amber-600 text-center mb-0.5">Products</div>
+              <div className="flex gap-px">
+                {allProducts.map(prod => (
+                  <div key={prod} className="w-24 text-center text-amber-500 leading-tight" title={prod}>
+                    {prod.split('-').map((part, i) => (
+                      <div key={i}>{part}</div>
+                    ))}
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
@@ -383,7 +385,7 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
     <div>
       <div
         className={cn(
-          'flex items-center gap-2 py-1.5 px-1 rounded-sm hover:bg-blue-50 cursor-pointer mb-0.5',
+          'flex items-center gap-2 py-1.5 px-1 rounded-sm hover:bg-blue-50 cursor-pointer mb-0.5 min-w-max',
           depthStyles[depth as keyof typeof depthStyles] || 'bg-white'
         )}
         style={{
@@ -407,7 +409,7 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
         )}
 
         <span className={cn(
-          'min-w-[200px] flex-1 truncate text-sm',
+          'w-[250px] flex-shrink-0 truncate text-sm',
           depth === 0 ? 'text-gray-900' : depth === 1 ? 'text-gray-800' : depth === 2 ? 'text-gray-700' : 'text-gray-600'
         )}>
           {node.name}
@@ -435,7 +437,7 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
         </div>
 
         {/* Geo columns - blue tint */}
-        <div className={cn('flex gap-px rounded px-1', depth === 0 ? 'bg-blue-100' : depth === 1 ? 'bg-blue-50' : '')}>
+        <div className={cn('flex gap-px rounded px-1 flex-shrink-0', depth === 0 ? 'bg-blue-100' : depth === 1 ? 'bg-blue-50' : '')}>
           {allGeos.map(geo => (
             <div key={geo} className={cn(
               'w-12 text-center font-mono',
@@ -448,7 +450,7 @@ function TreeNodeRow({ node, depth, total, allGeos, allProducts }: { node: TreeN
         </div>
 
         {/* Product columns - amber tint */}
-        <div className={cn('flex gap-px rounded px-1', depth === 0 ? 'bg-amber-100' : depth === 1 ? 'bg-amber-50' : '')}>
+        <div className={cn('flex gap-px rounded px-1 flex-shrink-0', depth === 0 ? 'bg-amber-100' : depth === 1 ? 'bg-amber-50' : '')}>
           {allProducts.map(prod => (
             <div key={prod} className={cn(
               'w-24 text-center font-mono',
